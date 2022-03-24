@@ -56,7 +56,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-Me">About Me</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -80,11 +80,15 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Me
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+I'm a nerd that has both too much time and not enough time. I enjoy wacky, pointless projects, as well as building tools that will help me be lazy. 
+
+
+Languages I'm currently comfortable with (but I'm not great at anything yet): 
+`Python`, `JavaScript (Vanilla)`, `HTML`, `CSS`, `SCSS`, `SQL`, `Perl`, `Python`, `C++`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
