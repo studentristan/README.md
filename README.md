@@ -72,27 +72,12 @@
 ![Languages](https://github.com/studentristan/github-stats/blob/master/generated/languages.svg)
 ![overview](https://github.com/studentristan/github-stats/blob/master/generated/overview.svg)
 
-I'm a nerd that has both too much time and not enough time. I enjoy wacky, pointless projects, as well as building tools that will help me be lazy. 
+I'm a nerd that has both too much time and not enough time. I enjoy wacky, pointless projects, as well as building tools that will help me be lazy. My goal is to develop projects and programs that will help people in a genuine way - but I don't have much of an attention span, so I'll probably just end up making a bunch of stupid games instead. 
 
 
 Languages I'm currently comfortable with (but I'm not great at anything yet):
 
 `Python`, `JavaScript (Vanilla)`, `HTML`, `CSS`, `SCSS`, `SQL`, `Perl`, `Python`, `C++`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
