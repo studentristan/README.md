@@ -22,7 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -98,7 +98,7 @@ Languages I'm currently comfortable with (but I'm not great at anything yet):
 <!-- CONTACT -->
 ## Contact
 
-Tristan Werden - [@IdontHaveTwitter](https://twitter.com) - studentristan@gmail.com
+Tristan Werden - [@SilverLark_](https://twitter.com/SilverLark_) - studentristan@gmail.com
 
 Project Link: [https://github.com/studentristan/studentristan](https://github.com/studentristan/studentristan)
 
