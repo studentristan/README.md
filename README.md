@@ -82,7 +82,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Languages][Languages]](https://github.com/studentristan/github-stats/blob/master/generated/languages.svg)
+[![Languages][Languages]](https://github.com/studentristan/github-stats/blob/master/generated/overview.svg)
 
 I'm a nerd that has both too much time and not enough time. I enjoy wacky, pointless projects, as well as building tools that will help me be lazy. 
 
@@ -231,4 +232,3 @@ Project Link: [https://github.com/studentristan/studentristan](https://github.co
 [license-url]: https://github.com/studentristan/studentristan/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
