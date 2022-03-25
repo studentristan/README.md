@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/studentristan/studentristan">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/studentristan/studentristan/blob/main/AxaFwt4a_400x400.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Tristan Werden</h3>
