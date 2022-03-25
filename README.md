@@ -82,8 +82,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![Languages][Languages]](https://github.com/studentristan/github-stats/blob/master/generated/languages.svg)
-[![Languages][Languages]](https://github.com/studentristan/github-stats/blob/master/generated/overview.svg)
+![Languages](https://github.com/studentristan/github-stats/blob/master/generated/languages.svg)
+![overview](https://github.com/studentristan/github-stats/blob/master/generated/overview.svg)
 
 I'm a nerd that has both too much time and not enough time. I enjoy wacky, pointless projects, as well as building tools that will help me be lazy. 
 
