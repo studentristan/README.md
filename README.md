@@ -73,7 +73,7 @@ I'm a nerd that has both too much time and not enough time. I enjoy wacky, point
 
 Languages I'm currently comfortable with (but I'm not great at anything yet):
 
-`Python`, `JavaScript (Vanilla)`, `HTML`, `CSS`, `SCSS`, `SQL`, `Perl`, `C++`
+`Python`, `JavaScript (Vanilla)`, `HTML`, `CSS`, `SCSS`, `SQL`, `Perl`, `C++`, `GDScript`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
