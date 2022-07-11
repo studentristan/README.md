@@ -37,7 +37,7 @@
     <a href="https://magicalgroom.weebly.com/"><strong>My First-Ever Website »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/github_username/repo_name](https://studentristan.github.io/Moonlit-Montessori/)">Moonlit Montessori</a>
+    <a href="https://studentristan.github.io/Moonlit-Montessori/">Moonlit Montessori</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Under Construction</a>
     ·
