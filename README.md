@@ -32,7 +32,7 @@
 <h3 align="center">Tristan Werden</h3>
 
   <p align="center">
-    Self-taught programmer, IT Support Specialist, and Writer. 
+    Self-Taught Programmer, IT Support Specialist, and Writer. 
     <br />
     <a href="https://magicalgroom.weebly.com/"><strong>My First-Ever Website »</strong></a>
     <br />
