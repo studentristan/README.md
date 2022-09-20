@@ -32,7 +32,7 @@
 <h3 align="center">Tristan Werden</h3>
 
   <p align="center">
-    Self-taught programmer, IT Support Specialist, and a scrappy no-good son of a gun. 
+    Self-taught programmer, IT Support Specialist, and Writer. 
     <br />
     <a href="https://magicalgroom.weebly.com/"><strong>My First-Ever Website »</strong></a>
     <br />
@@ -83,8 +83,10 @@ Languages I'm currently comfortable with (but I'm not great at anything yet):
 ## Planned Projects
 
 - [x] Set up a cool README
-- [ ] First Fully-functional Web-App (D&D Banking App)
-- [ ] Notion Integration to allow VIM to instantly upload to Notion
+- [x] Back End for the Moonlit Montessori
+- [ ] Pretty up the front-end for Moonlit Montessori
+- [ ] COMPTIA Network+ cert
+- [ ] COMPTIA Security cert
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
